@@ -1,8 +1,8 @@
 ### Hmm, i'm going to procrastinate for now.
-####I will eventualy add stuff to my bio.
-#####Though, if you want to check out my web page while you wait here it is.
-#####It is also a work in progress:
-#####https://hikora-aulari.github.io/
+###I will eventualy add stuff to my bio.
+###Though, if you want to check out my web page while you wait here it is.
+###It is also a work in progress:
+###https://hikora-aulari.github.io/
 <!--
 **Hikora-Aulari/Hikora-Aulari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
