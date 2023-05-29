@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hmm, i'm going to procrastinate for now.
+###### I will eventualy add stuff to my bio.
 <!--
 **Hikora-Aulari/Hikora-Aulari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
